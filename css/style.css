@@ -1,0 +1,22 @@
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.tamañoDeImg01{
+    width: 14rem;
+    height: 20rem;
+}
+.tipoDeLetra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+background-color: #e9ecef;
+}
+.colorDeBoton{
+    background-color:#ced4da;
+}
